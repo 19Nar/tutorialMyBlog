@@ -1,0 +1,10 @@
+h5 {
+    text-align: center;
+    text-decoration: cyan;
+    text-shadow: -1px 5px 4px rgb(132, 165, 187);
+}
+.col-sm {
+    text-align: center;
+    text-decoration: rgb(5, 116, 116);
+    text-shadow: -6px 5px 4px rgb(132, 165, 187);
+}
